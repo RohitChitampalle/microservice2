@@ -1,0 +1,24 @@
+{
+  "name": "microservice2",
+  "version": "1.0.0",
+  "description": "gallery photo",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1370.0",
+    "express": "^4.18.2",
+    "multer": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitChitampalle/microservice2.git"
+  },
+  "author": "rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitChitampalle/microservice2/issues"
+  },
+  "homepage": "https://github.com/RohitChitampalle/microservice2#readme"
+}
